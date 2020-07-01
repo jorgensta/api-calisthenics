@@ -1,0 +1,16 @@
+{
+  "name": "calisthenicsapi",
+  "version": "1.0.0",
+  "description": "API for calisthenics web site",
+  "main": "app.js",
+  "repository": "https://github.com/jorgensta/api-calisthenics.git",
+  "author": "Jørgen H. Stamnes",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
